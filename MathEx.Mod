@@ -1,0 +1,3 @@
+DEFINITION MathEx;
+  PROCEDURE abs(x : REAL) : REAL;
+END MathEx.
