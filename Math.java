@@ -1,5 +1,8 @@
 public class Math {
 
+  public static final float pi = (float) 3.141592653589793;
+  public static final float e = (float) 2.718281828459045;
+
   public static float sqrt(float x) {
     return (float) java.lang.Math.sqrt(x);
   }
